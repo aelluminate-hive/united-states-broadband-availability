@@ -43,5 +43,3 @@ The models were evaluated on their accuracy and classification metrics. The Rand
 
 ## Conclusion
 This project highlights broadband accessibility trends across U.S. counties, identifying disparities in rural and urban regions. The Random Forest model’s accuracy validates its effectiveness in classifying broadband availability, aiding in identifying areas that may benefit from increased connectivity efforts. These insights provide a valuable resource for policymakers focusing on bridging the digital divide.
-## Contributors
-❗ NOTE: Your professor be the one to fill this section.
